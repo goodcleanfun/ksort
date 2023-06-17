@@ -1,8 +1,8 @@
 {
   "name": "ksort",
-  "version": "0.1.0",
+  "version": "master",
   "description": "Generic sort, including introsort, merge sort, heap sort, comb sort, Knuth shuffle and the k-small algorithm.",
-  "repo": "attractivechaos/klib@master",
+  "repo": "attractivechaos/klib",
   "keywords": ["sorting", "sort", "generic"],
   "license": "MIT",
   "src": ["ksort.h"]
