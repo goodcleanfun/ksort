@@ -1,0 +1,8 @@
+{
+  "name": "ksort",
+  "version": "0.1.6",
+  "repo": "goodcleanfun/ksort",
+  "keywords": ["sorting", "sort", "generic"],
+  "license": "MIT",
+  "src": ["src/ksort.h"]
+}
